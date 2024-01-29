@@ -1,0 +1,1 @@
+cout<<row <<" "<<mid<<endl;
